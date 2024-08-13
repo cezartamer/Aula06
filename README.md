@@ -1,5 +1,5 @@
 # Aula06
-Padrão de Código e segurança
+Padrão de Código e segurança:
 
 pre-commit
 -black
